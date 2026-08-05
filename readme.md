@@ -4,15 +4,18 @@ Awesome list of React headless components! PRs are welcome.
 
 ## Libraries
 
+- [AdaptTable](https://github.com/orwa-mahmoud/adapttable) - Headless data-table core with native adapters for eight React UI kits - URL state, filters, column management, grouping, inline editing, saved views, virtualization, RTL.
 - [Ariakit](https://ariakit.org) - Headless component library and toolkit for building accessible web apps.
 - [Ark UI](https://github.com/chakra-ui/ark) -  A headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
-- [Base UI](https://mui.com/base-ui/) - Material UI, but without the Material Design styles.
+- [Base UI](https://base-ui.com) - Unstyled UI components for building accessible web apps and design systems.
 - [Dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 - [Downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [editate](https://github.com/inokawa/editate) - A type-safe contenteditable state manager.
 - [Floating UI](https://floating-ui.com/) - Tooltips, Modals, Popovers and other floating elements
 - [Headless Date Picker](https://github.com/aliakbarazizi/headless-datepicker) -  Headless datepicker for React
 - [Headless Stepper](https://github.com/raisiqueira/headless-stepper-monorepo) - Production ready React hook to create awesome stepper components. Effortless to use, easy to customize.
 - [Headless UI](https://github.com/tailwindlabs/headlessui) – Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS
+- [lightweight-charts-react-components](https://github.com/ukorvl/awesome-react-headless-components.git) - A set of headless React components for building financial charts with lightweight-charts library by TradingView
 - [Rad UI](https://github.com/rad-ui/ui) - An open-source, headless, accessibile UI component library for building modern, fast and performant React applications
 - [Radix UI](https://github.com/radix-ui/primitives) – A low-level UI component library with a focus on accessibility, customization and developer experience
 - [Reach UI](https://reach.tech/) - Accessible components for your React-based design system
@@ -35,6 +38,7 @@ Awesome list of React headless components! PRs are welcome.
 - [TanStack Query](https://tanstack.com/query) - Powerful asynchronous state management for TS/JS, React, Solid, Vue and Svelte.
 - [TanStack Table](https://tanstack.com/table/v8) - Headless UI for building powerful tables & datagrids
 - [use-select](https://github.com/tannerlinsley/use-select) - A react-hook for building enhanced input components.
+- [User Tour Kit](https://github.com/domidex01/tour-kit) - Headless onboarding primitives — product tours, hints, checklists, microsurveys, and announcements. Render-prop API, Radix UI primitives, WCAG 2.1 AA.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React
 - [Whizflow](https://github.com/itamarbareket/whizflow) - A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.
